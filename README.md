@@ -10,4 +10,4 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![PYTHON](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
 
-[![Henrique Estanislau's GitHub stats](https://github-readme-stats.vercel.app/api?username=henriqueestanislau)](https://github.com/anuraghazra/github-readme-stats)
+[![Henrique Estanislau's GitHub stats](https://github-readme-stats.vercel.app/api?username=henriqueestanislau&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
