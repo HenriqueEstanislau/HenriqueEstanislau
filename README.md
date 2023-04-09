@@ -2,7 +2,7 @@
 
 - Hello guys, I'm passionate about technology and programming
 - Here on my GitHub profile you can see some of my projects
-- I am a computer science student
+- I am a computer science student and software developer
 - I like to learn more and more about technology because it is an area that challenges me and makes me satisfied
 ### I’m currently learning
 ![NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
