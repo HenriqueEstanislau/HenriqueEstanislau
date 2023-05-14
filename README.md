@@ -5,6 +5,7 @@
 - I am a computer science student and software developer
 - I like to learn more and more about technology because it is an area that challenges me and makes me satisfied
 ### I’m currently learning
+![CSharp](https://img.shields.io/badge/c%23-23912a?style=for-the-badge&logo=CSharp&logoColor=white)
 ![NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![SQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
